@@ -20,7 +20,7 @@ from collections import deque
 # ----------------------- 配置参数（新增复用队列参数）-----------------------
 FONT_PATH = r'C:\Windows\Fonts\msyh.ttc'
 HUMAN_DIR = r"D:\program\download\video_frames3"
-OUTPUT_DIR = r'D:\program\download\video_frames6'
+OUTPUT_DIR = r'D:\program\download\video_frames4'
 FRAME_SIZE = (1920, 1080)
 COLOR_PALETTES = [
     ['#FF6B6B', '#4ECDC4', '#45B7D1'],  # 红蓝渐变

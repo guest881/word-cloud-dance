@@ -2,7 +2,7 @@ import cv2
 import os
 
 # 配置参数
-video_path = r"D:\program\PaddleSeg\contrib\PP-HumanSeg\data\videos_result\video_heng_v2.avi"
+video_path = r"D:\program\download\video_heng_v2.avi"#人像切割后的视频
 output_dir = r"D:\program\download\video_frames2"
 target_size = None  # 设置为None则不调整尺寸
 

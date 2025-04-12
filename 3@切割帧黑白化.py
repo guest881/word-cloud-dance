@@ -49,4 +49,4 @@ def batch_process(input_dir, output_dir, max_workers=4):
 
 
 # 使用示例
-batch_process(r"D:\program\download\video_frames2", r"D:\program\download\video_frames24")
+batch_process(r"D:\program\download\video_frames2", r"D:\program\download\video_frames3")
